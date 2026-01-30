@@ -39,7 +39,7 @@ public class TestEmployee {
 }
 ```
 # output:
-![output of 4a](4a.png)
+![output of 4a](4aa.png)
 
 ## 4.B. To implement Multi-level Inheritance
 ## source code:
